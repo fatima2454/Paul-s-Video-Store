@@ -1,4 +1,4 @@
-# Paul-s-Video-Store
+# Pauls-Video-Store
 This Java program serves as a video rental management system, allowing users to add videos and customers, rent and return videos, and view lists of available videos and customers. Developed with simplicity and functionality in mind, the program utilizes object-oriented principles to efficiently manage video and customer data. Through a user-friendly menu interface, users can easily navigate and perform various tasks, such as adding new videos or customers, renting videos to customers, and returning rented videos. The program incorporates error handling to ensure smooth execution and provides feedback to users in case of invalid input. With its intuitive design and comprehensive functionality, this program offers a streamlined solution for managing video rentals
 
 
