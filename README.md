@@ -16,6 +16,8 @@ This Java program serves as a video rental management system, allowing users to 
 <img width="625" alt="Screenshot 2024-03-24 at 3 14 23 PM" src="https://github.com/fatima2454/Paul-s-Video-Store/assets/114449523/7019a28a-3e15-4b24-aa7d-c66ad263056f">
 <img width="558" alt="Screenshot 2024-03-24 at 3 14 49 PM" src="https://github.com/fatima2454/Paul-s-Video-Store/assets/114449523/339e9948-3c5f-407a-b571-4543fb666fae">
 
+<img width="789" alt="Screenshot 2024-03-24 at 3 16 24 PM" src="https://github.com/fatima2454/Paul-s-Video-Store/assets/114449523/2d690dac-cf09-459f-bfdd-7f06fa7869a6">
+<img width="710" alt="Screenshot 2024-03-24 at 3 17 06 PM" src="https://github.com/fatima2454/Paul-s-Video-Store/assets/114449523/ad6b8d7a-844e-461f-8e1f-ece36bc62f5f">
 
 
 
